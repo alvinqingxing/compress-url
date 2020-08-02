@@ -1,6 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const app = express();
+
 const ShortUrl = require('./models/shortUrl')
 
 mongoose.connect(process.env.DB_URI, {

@@ -1,1 +1,1 @@
-A [URL compression app](https://express-compress-url.herokuapp.com/) written in Node.js and Express.js
+A URL compression app written in Node.js and Express.js
